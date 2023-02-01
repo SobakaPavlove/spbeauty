@@ -17,7 +17,7 @@ const WFullDiv = styled.div`
 
 function Addresses() {
     return (
-        <WrapperDiv className='d-inline-flex flex-column gap-2 mt-4 justify-content-between'>
+        <WrapperDiv className='d-inline-flex flex-column gap-2 justify-content-between'>
             <div>
                 <div className='title'>Адреса заведений</div>
                 <WFullDiv className='d-inline-flex flex-column gap-3 mt-4'>
